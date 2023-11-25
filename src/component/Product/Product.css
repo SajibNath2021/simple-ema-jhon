@@ -9,7 +9,6 @@
 .product {
     width: 300px;
     height: 600px;
-    flex-shrink: 0;
     border-radius: 8px;
     border: 1px solid #c3c5c6;
     position: relative;
